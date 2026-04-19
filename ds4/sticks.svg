@@ -124,7 +124,7 @@
    style="fill:#12dfeb;fill-opacity:1" /><g
    id="g24"
    transform="matrix(0.30604437,0,0,0.30604437,-898.93984,582.02744)"
-   style="enable-background:new -816 494 286 94"><g
+   style="display:none"><g
      id="g23"
      transform="matrix(2.0152535,0,0,2.0152535,1054.6095,-210.87294)"><g
        id="g20"
@@ -207,7 +207,8 @@
 			-->
 		<g
    id="g18"
-   transform="matrix(0.30604437,0,0,0.30604437,-898.93984,582.02744)"><g
+   transform="matrix(0.30604437,0,0,0.30604437,-898.93984,582.02744)"
+   style="display:none"><g
      id="layer1"
      transform="matrix(2.0152535,0,0,2.0152535,1369.4718,-211.2607)"><g
        id="layer4"
